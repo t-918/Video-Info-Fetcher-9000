@@ -56,5 +56,3 @@ Effortlessly retrieve YouTube video details like titles, views, durations, and m
   - The application features a stylish black background with white text for an appealing visual experience
 - **Multiple Platform Compatibility**:
   - Being a Python application, it is compatible with multiple platforms, including Windows, macOS, and Linux.
-- **Customization and Feedback**:
-  - Users are encouraged to customize the application as needed and provide feedback for future improvements.
